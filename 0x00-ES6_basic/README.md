@@ -3,4 +3,5 @@
 * [Const or let?](./0-constants.js)
 * [Block Sccope](./1-block-scoped.js)
 * [Arrow Functions](./2-arrow.js)
+* [Default Parameters](./3-default-parameter.js)
   
