@@ -5,4 +5,5 @@
 * [Arrow Functions](./2-arrow.js)
 * [Default Parameters](./3-default-parameter.js)
 * [Rest Parameter](./4-rest-parameter.js)
+* [Spread Operator](./5-spread-operator.js)
   
