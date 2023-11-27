@@ -9,4 +9,5 @@
 * [String Interpolation](./6-string-interpolation.js)
 * [Object property value shorthand syntax](./7-getBudgetObject.js)
 * [No need to create empty objects before adding in properties](./8-getBudgetCurrentYear.js)
+* [ES6 method properties](./9-getFullBudget.js)
   
