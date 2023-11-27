@@ -12,4 +12,5 @@
 * [ES6 method properties](./9-getFullBudget.js)
 * [For...of loops](./10-loops.js)
 * [Iterator](./11-createEmployeesObject.js)
+* [Let's create a report object](./12-createReportObject.js)
   
