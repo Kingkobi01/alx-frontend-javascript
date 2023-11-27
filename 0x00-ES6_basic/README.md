@@ -6,4 +6,6 @@
 * [Default Parameters](./3-default-parameter.js)
 * [Rest Parameter](./4-rest-parameter.js)
 * [Spread Operator](./5-spread-operator.js)
+* [String Interpolation](./6-string-interpolation.js)
+* [Object property value shorthand syntax](./7-getBudgetObject.js)
   
