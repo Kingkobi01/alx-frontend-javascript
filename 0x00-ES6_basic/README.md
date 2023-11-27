@@ -4,4 +4,5 @@
 * [Block Sccope](./1-block-scoped.js)
 * [Arrow Functions](./2-arrow.js)
 * [Default Parameters](./3-default-parameter.js)
+* [Rest Parameter](./4-rest-parameter.js)
   
