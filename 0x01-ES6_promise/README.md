@@ -5,3 +5,4 @@
 * [Catch me If you can!](./2-then.js)
 * [Handle multiple successful promises](./3-all.js)
 * [Simple promise](./4-user-promise.js)
+* [Reject the promises](./5-photo-reject.js)
