@@ -10,4 +10,4 @@
 * [Load balancer](./7-load_balancer.js)
 * [Throw error / try catch](./8-try.js)
 * [Throw an error](./9-try.js)
-* [Await / Async](./100-await.js)
+* [Await / Async](./100-await.js) (Advanced Task 01)
