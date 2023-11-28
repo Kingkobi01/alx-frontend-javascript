@@ -7,3 +7,4 @@
 * [Simple promise](./4-user-promise.js)
 * [Reject the promises](./5-photo-reject.js)
 * [Handle multiple promises](./6-final-user.js)
+* [Load balancer](./7-load_balancer.js)
