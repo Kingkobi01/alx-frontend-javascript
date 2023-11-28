@@ -4,3 +4,4 @@
 * [Don't make a promise...if you know you can't keep it](./1-promise.js)
 * [Catch me If you can!](./2-then.js)
 * [Handle multiple successful promises](./3-all.js)
+* [Simple promise](./4-user-promise.js)
