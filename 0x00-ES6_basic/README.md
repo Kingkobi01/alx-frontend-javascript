@@ -14,4 +14,5 @@
 * [Iterator](./11-createEmployeesObject.js)
 * [Let's create a report object](./12-createReportObject.js)
 * [Iterating through report objects](./100-createIteratorObject.js)
+* [Iterate through object](./101-iterateThroughObject.js)
   
