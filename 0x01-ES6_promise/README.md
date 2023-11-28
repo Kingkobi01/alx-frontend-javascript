@@ -6,3 +6,4 @@
 * [Handle multiple successful promises](./3-all.js)
 * [Simple promise](./4-user-promise.js)
 * [Reject the promises](./5-photo-reject.js)
+* [Handle multiple promises](./6-final-user.js)
