@@ -9,4 +9,4 @@
 * [Handle multiple promises](./6-final-user.js)
 * [Load balancer](./7-load_balancer.js)
 * [Throw error / try catch](./8-try.js)
-* []
+* [Throw an error](./9-try.js)
