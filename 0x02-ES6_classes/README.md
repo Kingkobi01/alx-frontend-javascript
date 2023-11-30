@@ -8,3 +8,4 @@
 * [A Building](./5-building.js)
 * [Inheritance](./6-sky_high.js)
 * [Airport](./7-airport.js)
+* [Primitive](./8-hbtn_class.js)
