@@ -2,3 +2,4 @@
 
 * [You used to attend a place like this at some point](./0-classroom.js)
 * [Let's make some classrooms](./1-make_classrooms.js)
+* [A Course, Getters, and Setters](./2-hbtn_course.js)
