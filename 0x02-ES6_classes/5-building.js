@@ -1,5 +1,5 @@
 export default class Building {
-  constructor(sqft=0) {
+  constructor(sqft = 0) {
     if (typeof sqft !== 'number') {
       throw new TypeError('Squarefoot must be a number');
     }
