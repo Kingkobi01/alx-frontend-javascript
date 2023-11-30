@@ -11,3 +11,4 @@
 * [Primitive](./8-hbtn_class.js)
 * [Hoisting](./9-hoisting.js)
 * [Vroom](./10-car.js)
+* [EVCar](./100-evcar.js)
