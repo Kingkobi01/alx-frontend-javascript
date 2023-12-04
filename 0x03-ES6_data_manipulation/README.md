@@ -11,3 +11,4 @@
 * [Clean set](./8-clean_set.js)
 * [Map data structure](./9-groceries_list.js)
 * [More map data structure](./10-update_uniq_items.js)
+* [Weak link data structure](./100-weak.js) (Advanced Task 01)
