@@ -7,3 +7,4 @@
 * [Combine](./4-update_grade_by_city.js)
 * [Typed Arrays](./5-typed_arrays.js)
 * [Set data structure](./6-set.js)
+* [More set data structure](./7-has_array_values.js)
