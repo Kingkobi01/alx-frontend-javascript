@@ -8,3 +8,4 @@
 * [Typed Arrays](./5-typed_arrays.js)
 * [Set data structure](./6-set.js)
 * [More set data structure](./7-has_array_values.js)
+* [Clean set](./8-clean_set.js)
