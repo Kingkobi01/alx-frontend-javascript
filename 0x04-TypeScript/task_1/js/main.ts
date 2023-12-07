@@ -1,4 +1,4 @@
-interface Teacher {
+export default interface Teacher {
   readonly firstName: string;
   readonly lastName: string;
   fullTimeEmployee: boolean;
