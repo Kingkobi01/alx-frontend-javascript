@@ -23,6 +23,17 @@ const student2: Student = {
 const studentList: Student[] = [student1, student2];
 
 const table = document.createElement('table');
+const thead = document.createElement('tr');
+
+const thFirstName = document.createElement('th');
+thFirstName.textContent = 'Firstname';
+
+const thLocation = document.createElement('th');
+thLocation.textContent = 'Location';
+
+thead.append(thFirstName, thLocation);
+table.appendChild(thead);
+
 const tbody = document.createElement('tbody');
 table.appendChild(tbody);
 
